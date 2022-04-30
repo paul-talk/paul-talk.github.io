@@ -3,6 +3,7 @@ The purpose of this site is to catalog and archive the most important posts of t
 
 ## Gallery
 * Paul-talk:
+  ![alt.text](https://github.com/truepainting/truepainting.github.io/images/europa.jpg)
 * Topias:
 * Vladan: 
 
