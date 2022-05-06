@@ -1,4 +1,4 @@
-![banner](https://github.com/truepainting/truepainting.github.io/blob/main/images/selfa3.jpg)
+![banner](images/selfa3.jpg)
 # Paul-talk Discord Archive 
 The purpose of this site is to catalog and archive the most important posts of the Paul-talk discord server.
 
