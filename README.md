@@ -14,6 +14,10 @@ The purpose of this site is to catalog and archive the most important posts of t
 ## Drawing Exercises
 * [01 Beginner Drawing Exercise](https://drive.google.com/drive/folders/1uG9-jfNT7KjP7uyAQZCWCKWDiskgoTi_?usp=sharing)
 
+## Books
+* What is Art? - by Paul Rhoads([pdf](https://github.com/truepainting/truepainting.github.io/raw/main/books/What%20is%20Art%20-%20by%20Paul%20Rhoads%20(Ebook).pdf), [lulu.com link](https://www.lulu.com/en/us/shop/paul-rhoads/what-is-art/ebook/product-1qzvpj8m.html)
+* Other Books(music) ([Ebooks](https://drive.google.com/drive/folders/1Mh9eqCPpps7_5MkQZ9xjcCDqz7exwFBR?usp=sharing),[[lulu.com link]](https://www.lulu.com/search?contributor=Paul+Rhoads)
+* 
 ## Other
 * [Old Twitter Account](https://twitter.com/Paultalktroll)
 * [Youtube Drawing Videos Repost](https://www.youtube.com/playlist?list=PLXeMt3ZaTIZxSHxpMy43MwYRZ9NDkF8bQ)
