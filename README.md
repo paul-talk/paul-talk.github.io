@@ -1,4 +1,4 @@
-# Paul-talk Home
+# ![banner](images/selfa0.jpg) Paul-talk Home
 The purpose of this site is to catalog and archive everything from Paul-talk.
 
 ## Links
