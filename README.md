@@ -8,15 +8,11 @@ The purpose of this site is to catalog and archive everything from Paul-talk.
 * Facebook: <https://www.facebook.com/ChinonArtist>
 
 ## Learn to Draw
-Post your drawings and get feedback. (Follow exercise instructions!)
-
-In the "learning-to-draw" discord channel.
+Post your drawings and get feedback in the "learning-to-draw" discord channel. (Follow exercise instructions!)
 * 01 Beginner Drawing Exercise ([Screenshot](https://raw.githubusercontent.com/paul-talk/paul-talk.github.io/main/images/drawing-exercise-1.png))
 
 ## Composition Club
-Post your composition and learn from others.
-
-In the "compostion-club" discord channel.
+Post your compositions and learn from others in the "compostion-club" discord channel.
 * 01 Subject: Potiphar’s Wife ([Screenshot](https://raw.githubusercontent.com/paul-talk/paul-talk.github.io/ead6cdd919c6066593e15aa120a91eb651c89143/images/potiphar's-wife.png))
 
 ## Gallery
