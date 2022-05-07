@@ -1,21 +1,28 @@
 # Paul-talk Home
-The purpose of this site is to catalog and archive the most important posts from Paul-talk.
+The purpose of this site is to catalog and archive everything from Paul-talk.
 
 ## Links
-* [Odysee Channel](https://odysee.com/@Paul-talk:b)
-* [Discord](https://discord.gg/pZW2FmCP6B)
-* [Twitter](https://twitter.com/Paultalk44)
+* Odysee: <https://odysee.com/@Paul-talk:b>
+* Discord: <https://discord.gg/pZW2FmCP6B>
+* Twitter: <https://twitter.com/Paultalk44>
+* Facebook: <https://www.facebook.com/ChinonArtist>
+
+## Learn to Draw
+On discord in the "learning-to-draw" channel, post your drawings and get feedback. (Follow exercise instructions!)
+* 01 Beginner Drawing Exercise ([Screenshot](https://raw.githubusercontent.com/truepainting/truepainting.github.io/main/images/drawing-exercise-1.png))
+
+## Composition Club
+On discord in the "compostion-club" channel, post your composition and learn from others.
+* 01 Subject: Potiphar’s Wife ([Screenshot](https://raw.githubusercontent.com/truepainting/truepainting.github.io/ead6cdd919c6066593e15aa120a91eb651c89143/images/potiphar's-wife.png))
 
 ## Gallery
-* [Paul-talk](https://drive.google.com/drive/folders/1w1x_44ukSvgYyMuDaVicCrjo03WmpoUg?usp=sharing)
-
-## Drawing Exercises
-* [01 Beginner Drawing Exercise](https://drive.google.com/drive/folders/1uG9-jfNT7KjP7uyAQZCWCKWDiskgoTi_?usp=sharing)
+* Paul-talk: [Google Drive](https://drive.google.com/drive/folders/1ekucnarPr3EA69bHxlvJUu4mNAmesSeT?usp=sharing)
 
 ## Books
-* What is Art? - by Paul Rhoads ([pdf](https://github.com/truepainting/truepainting.github.io/raw/main/books/What%20is%20Art%20-%20by%20Paul%20Rhoads%20(Ebook).pdf), [lulu.com](https://www.lulu.com/en/us/shop/paul-rhoads/what-is-art/ebook/product-1qzvpj8m.html))
-* Other Books ([Ebooks](https://drive.google.com/drive/folders/1Mh9eqCPpps7_5MkQZ9xjcCDqz7exwFBR?usp=sharing), [lulu.com](https://www.lulu.com/search?contributor=Paul+Rhoads))
+* What is Art? - by Paul Rhoads ([Google Drive](https://drive.google.com/drive/folders/1ekucnarPr3EA69bHxlvJUu4mNAmesSeT?usp=sharing), [download](https://github.com/truepainting/truepainting.github.io/raw/main/books/What%20is%20Art%20-%20by%20Paul%20Rhoads%20(Ebook).pdf), [lulu.com](https://www.lulu.com/en/us/shop/paul-rhoads/what-is-art/ebook/product-1qzvpj8m.html))
+* Other Books ([Google Drive](https://drive.google.com/drive/folders/1ekucnarPr3EA69bHxlvJUu4mNAmesSeT?usp=sharing), [lulu.com](https://www.lulu.com/search?contributor=Paul+Rhoads))
 
 ## Other
-* [Old Twitter Account](https://twitter.com/Paultalktroll)
-* [Youtube Drawing Videos Repost](https://www.youtube.com/playlist?list=PLXeMt3ZaTIZxSHxpMy43MwYRZ9NDkF8bQ)
+* Old Twitter Account: <https://twitter.com/Paultalktroll>
+* Youtube Drawing Videos Repost: <https://www.youtube.com/playlist?list=PLXeMt3ZaTIZxSHxpMy43MwYRZ9NDkF8bQ>
+* Google Drive: <https://drive.google.com/drive/folders/1ekucnarPr3EA69bHxlvJUu4mNAmesSeT?usp=sharing>
