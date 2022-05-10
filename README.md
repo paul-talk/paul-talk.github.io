@@ -17,10 +17,14 @@ Post your compositions and learn from others in the "compostion-club" discord ch
 
 ## Gallery
 * Paul-talk: [Google Drive](https://drive.google.com/drive/folders/1ekucnarPr3EA69bHxlvJUu4mNAmesSeT?usp=sharing)
+* Vladan: [Google Drive](https://drive.google.com/drive/folders/1ekucnarPr3EA69bHxlvJUu4mNAmesSeT?usp=sharing)
 
 ## Books
 * What is Art? - by Paul Rhoads ([Google Drive](https://drive.google.com/drive/folders/1ekucnarPr3EA69bHxlvJUu4mNAmesSeT?usp=sharing), [download](https://github.com/paul-talk/paul-talk.github.io/raw/main/books/What%20is%20Art%20-%20by%20Paul%20Rhoads%20(Ebook).pdf), [lulu.com](https://www.lulu.com/en/us/shop/paul-rhoads/what-is-art/ebook/product-1qzvpj8m.html))
 * Other Books ([Google Drive](https://drive.google.com/drive/folders/1ekucnarPr3EA69bHxlvJUu4mNAmesSeT?usp=sharing), [lulu.com](https://www.lulu.com/search?contributor=Paul+Rhoads))
+
+## Email
+* paulrhoads44@tuta.io
 
 ## Other
 * Old Twitter Account: <https://twitter.com/Paultalktroll>
